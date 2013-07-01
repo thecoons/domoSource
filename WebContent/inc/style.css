@@ -1,0 +1,68 @@
+body
+{
+	
+	background-image: url("lamaBack.jpg");
+}
+[class*="span"]
+{
+	float: left;
+	background-color : white;
+	border-radius : 5px;
+	margin-bottom: 20px;
+	text-align: left;  
+	padding-bottom: 20px;
+	
+}
+h3	
+{
+	text-align: center;
+}
+h4{
+	margin-left:10px;
+	text-decoration:underline;
+}
+section
+{
+	height : 670px ;
+}
+img
+{
+	margin-top: 10px;
+}
+.tableau
+{
+	text-align: left;
+}
+p
+{
+	font-weight:bold;
+	padding-left: 1px;
+}
+#piece
+{
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+}
+
+h3{
+	text-decoration:underline;
+}
+
+#titre
+{
+	margin-left:20px;
+}
+#module{
+	background-color:LightGrey;
+	margin-left:20px;
+	border-radius:5px;
+}
+#module .span2{
+	background-color:LightGrey;
+}
+#module select{
+	width: 150px;
+}
+#module #chiffre{
+	width:75px;
+}
